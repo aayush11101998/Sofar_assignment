@@ -21,7 +21,7 @@ on the terminal run "./run.sh"
 once the world is launched in the Gazebo give the initial position to the robots using the RViz select `2D pose Estimate` to give the initial position and then use `2D goal pose` to give the final goal to the robot.
 
 ## About
-The two robot navigation is a package where two robots use independent navigation2 package to navigate from a chosen initial point to a selected final point through the help of RViz2, avoiding collision from both static and moving objects.
+The `two_robot_nav` is a package where two robots use independent navigation2 package to navigate from a chosen initial point to a selected final point through the help of RViz2, avoiding collision from both static and moving objects.
 
 ## Software architecture schematic graph
 Below is a schematic diagram of the architecture used in the package
