@@ -26,4 +26,5 @@ The two robot navigation is a package where two robots use independent navigatio
 ## Software architecture schematic graph
 Below is a schematic diagram of the architecture used in the package.
 ([image](link)) 
+
 *Note: Most relevent nodes are represented in this schematic diagram find a detailed version in the given ([link](https://github.com/aayush11101998/Sofar_assignment/blob/master/rosgraph.png)). 
