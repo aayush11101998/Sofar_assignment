@@ -3,8 +3,11 @@
 ## Pre-requisites
 ### Software required
 1.) Gazebo ([about](https://gazebosim.org/home))
+
 2.) RViz2 ([about](https://turtlebot.github.io/turtlebot4-user-manual/software/rviz.html#rviz2))
+
 3.) Ros2 Galactic ([installation](http://docs.ros.org.ros.informatik.uni-freiburg.de/en/galactic/Installation.html))
+
 4.) Navigation2 ([installation](https://navigation.ros.org/build_instructions/index.html))
 
 ### Robot Required
