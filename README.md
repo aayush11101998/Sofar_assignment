@@ -24,7 +24,7 @@ once the world is launched in the Gazebo give the initial position to the robots
 The two robot navigation is a package where two robots use independent navigation2 package to navigate from a chosen initial point to a selected final point through the help of RViz2, avoiding collision from both static and moving objects.
 
 ## Software architecture schematic graph
-Below is a schematic diagram of the architecture used in the package.
+Below is a schematic diagram of the architecture used in the package
 ([image](link)) 
 
 *Note: Most relevent nodes are represented in this schematic diagram find a detailed version in the given ([link](https://github.com/aayush11101998/Sofar_assignment/blob/master/rosgraph.png)). 
