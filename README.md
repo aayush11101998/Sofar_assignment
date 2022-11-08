@@ -25,6 +25,6 @@ The `two_robot_nav` is a package where two robots use independent navigation2 pa
 
 ## Software architecture schematic graph
 Below is a schematic diagram of the architecture used in the package
-([image](https://github.com/aayush11101998/Sofar_assignment/blob/master/Screenshot%20from%202022-11-08%2015-15-49.png)) 
+([Sofar Architecture]((https://user-images.githubusercontent.com/91724060/200576766-b559e397-6a43-48f4-a3e9-e79408b72f97.png))) 
 
 *Note: Most relevent nodes are represented in this schematic diagram find a detailed version in the given ([link](https://github.com/aayush11101998/Sofar_assignment/blob/master/rosgraph.png)). 
