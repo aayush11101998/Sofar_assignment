@@ -1,5 +1,6 @@
 # Two Robot Navigation
-
+### ASSIGNMENT BY ([Aayush Vats](https://github.com/aayush11101998), [Subhransu Sourav Priyadarshan](https://github.com/subhransu10), [Azey Karimli](https://github.com/azaykarimli), [Alessandro Vaselli](https://github.com/Jellyfishh97)
+### PROFESSOR ([Simone Macciò](https://github.com/SimoneMacci0))
 ## Pre-requisites
 ### Software required
 1.) Gazebo ([about](https://gazebosim.org/home))
