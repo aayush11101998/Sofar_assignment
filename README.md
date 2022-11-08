@@ -35,6 +35,7 @@ Below is a schematic diagram of the architecture used in the package
 
 ## Scope of improvements
 More than two robots in the given package can be added just by editing the number of robots defined in the ([multirobot_launch](https://github.com/aayush11101998/Sofar_assignment/blob/master/src/two_robot_nav/launch/multirobot_launch.py)) and then just adding a parameter file in the `resource`. For n number of robots defined in the launch file define n number of parameter file for the robot.
+
 Nodes to navigate robot through a script can be added in `two_robot_nav` of the package. 
 !! Don't forget to mention the name of script in the setup.py.
  
