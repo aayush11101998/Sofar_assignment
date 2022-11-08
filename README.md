@@ -23,8 +23,18 @@ once the world is launched in the Gazebo give the initial position to the robots
 ## About
 The `two_robot_nav` is a package where two robots use independent navigation2 package to navigate from a chosen initial point to a selected final point through the help of RViz2, avoiding collision from both static and moving objects.
 
+## NAV2 in Two robot navigation
+Nav2 package is used here to navigate robot to a given destination using a certain set of task excecuting methods which are present in the Behavior Tree. This BT is consists of important functions like recovery function for the robot, computing a path, etc.
+
 ## Software architecture schematic graph
 Below is a schematic diagram of the architecture used in the package
 ![Sofar Architecture](https://user-images.githubusercontent.com/91724060/200576766-b559e397-6a43-48f4-a3e9-e79408b72f97.png)
 
-*Note: Most relevent nodes are represented in this schematic diagram find a detailed version in the given ([link](https://github.com/aayush11101998/Sofar_assignment/blob/master/rosgraph.png)). 
+
+*Note: Most relevent nodes are represented in this schematic diagram find a detailed version in the given ([link](https://github.com/aayush11101998/Sofar_assignment/blob/master/rosgraph.png)).
+
+## Scope of improvements
+More than two robots in the given package can be added just by editing the number of robots defined in the ([multirobot_launch](https://github.com/aayush11101998/Sofar_assignment/blob/master/src/two_robot_nav/launch/multirobot_launch.py)) and then just adding a parameter file in the `resource`. For n number of robots defined in the launch file define n number of parameter file for the robot.
+Nodes to navigate robot through a script can be added in `two_robot_nav` of the package. 
+!! Don't forget to mention the name of script in the setup.py.
+ 
