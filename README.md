@@ -30,7 +30,7 @@ Nav2 package is used here to navigate robot to a given destination using a certa
 ## Software architecture schematic graph
 Below is a schematic diagram of the architecture used in the package
 
-![Sofar Architecture](https://user-images.githubusercontent.com/91724060/200851166-99ba0454-fad8-4adb-ab1c-0ef13787ebb0.png)
+![Sofar Architecture](https://user-images.githubusercontent.com/91724060/200852701-1f94817d-455b-4505-b057-ada138b09aea.png)
 
 *Note: Most relevent nodes are represented in this schematic diagram find a detailed version in the given ([link](https://github.com/aayush11101998/Sofar_assignment/blob/master/rosgraph.png)).
 
