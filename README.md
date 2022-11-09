@@ -31,7 +31,6 @@ The `two_robot_nav` is a package where two robots use independent navigation2 pa
 ([Multirobot_launch](https://github.com/aayush11101998/Sofar_assignment/blob/master/src/two_robot_nav/launch/multirobot_launch.py)): Launching this file launches tb3_launch file with different namespaced robots which satisfies the purpose of assignment i.e. functioning of multiple robots with independent navigation without collision.
 
 ([spawn_tb3_launch](https://github.com/aayush11101998/Sofar_assignment/blob/master/src/two_robot_nav/launch/spawn_tb3_launch.py)): Spawns the turtlebot_waffle.
-([localization_launch](https://github.com/aayush11101998/Sofar_assignment/blob/master/src/two_robot_nav/launch/localization_launch.py)): Enables the localization for the robots.
 
 ([tb3_launch](https://github.com/aayush11101998/Sofar_assignment/blob/master/src/two_robot_nav/launch/tb3_launch.py)): Launches the spawn_tb3 along with gazebo environment and runs the bringup launch_file.
 
