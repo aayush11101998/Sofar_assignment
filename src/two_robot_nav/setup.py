@@ -12,7 +12,6 @@ data_files.append(('share/' + package_name + '/launch', ['launch/navigation_laun
 data_files.append(('share/' + package_name + '/launch', ['launch/slam_launch.py']))
 data_files.append(('share/' + package_name + '/launch', ['launch/bringup_launch.py']))
 data_files.append(('share/' + package_name + '/launch', ['launch/nav_comm_robot_handler_launch.py']))
-data_files.append(('share/' + package_name + '/launch', ['launch/navigation2_launch.py']))
 
 data_files.append(('share/' + package_name + '/resource', [
      'resource/nav2_default_view.rviz',
